@@ -93,7 +93,7 @@ The Settings area provides controls for Sentinel's available preferences, includ
 - About and legal information
 
 <img width="1087" height="1909" alt="Screenshot_2-9-2026_105656_jfbfgipbpkkhcdhiijomlkkjbmokijia" src="https://github.com/user-attachments/assets/e4c730f0-e600-4d03-aa7e-190e5fe914f9" />
----
+
 
 ## Browser Popup
 
