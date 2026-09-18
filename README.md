@@ -4,7 +4,7 @@ NEXGEN Sentinel is a privacy-focused browser extension that helps users understa
 
 It analyzes extension metadata, declared permissions, website access, enabled state, and other available browser information to provide clear health indicators, risk signals, and actionable recommendations.
 
-> **NEXGEN Sentinel v1.0.0**
+> NEXGEN Sentinel v1.0.0
 
 ---
 
@@ -36,7 +36,7 @@ The goal is simple: make browser-extension security information easier to unders
 
 The Dashboard provides an overall view of browser extension health, including security and privacy indicators, extensions worth reviewing, broad website access, and the most recent scan information.
 
- <img width="1105" height="1372" alt="Screenshot_2-9-2026_105552_jfbfgipbpkkhcdhiijomlkkjbmokijia" src="https://github.com/user-attachments/assets/9fdaf4f2-6ce4-4fe2-88c6-0a7a32f0a043" />
+<img width="1105" height="1372" alt="Screenshot_2-9-2026_105552_jfbfgipbpkkhcdhiijomlkkjbmokijia" src="https://github.com/user-attachments/assets/9fdaf4f2-6ce4-4fe2-88c6-0a7a32f0a043" />
 
 ---
 
@@ -94,6 +94,7 @@ The Settings area provides controls for Sentinel's available preferences, includ
 
 <img width="1087" height="1909" alt="Screenshot_2-9-2026_105656_jfbfgipbpkkhcdhiijomlkkjbmokijia" src="https://github.com/user-attachments/assets/e4c730f0-e600-4d03-aa7e-190e5fe914f9" />
 
+---
 
 ## Browser Popup
 
@@ -104,20 +105,33 @@ It includes the current Browser Health score, attention indicators, extension re
 <img width="597" height="577" alt="Screenshot 2026-09-02 104549" src="https://github.com/user-attachments/assets/1bc01d5c-19f3-438e-9e39-1e9d3006e544" />
 
 ---
-
 ## Supported Browsers
-
 NEXGEN Sentinel is designed for Chromium-based browsers that support the required extension APIs.
-
 Supported browsers include:
-
 - Google Chrome
 - Microsoft Edge
 - Brave
 - Opera
 - Vivaldi
-
 Browser API availability may vary between browsers and versions.
+
+### Get NEXGEN Sentinel for Browsers
+
+<div align="left">
+  <div style="display: inline-block; text-align: center; margin-right: 20px;">
+    <a href="https://microsoftedge.microsoft.com/addons/detail/kemiajffpbbmkjejjmcmpjlfjifphoci">
+      <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_48x48.png"
+           width="48"
+           height="48"
+           alt="Microsoft Edge" />
+    </a>
+    <br>
+    <sub>Microsoft Edge</sub>
+  </div>
+</div>
+
+<sub><i>Click logo to get extension</i></sub>
+
 
 ---
 
@@ -142,7 +156,7 @@ Sentinel uses these observable signals to generate explainable assessments.
 
 ## Understanding Sentinel Assessments
 
-Sentinel's scores and risk indicators are **informational assessments**.
+Sentinel's scores and risk indicators are informational assessments.
 
 They are not:
 
@@ -165,8 +179,8 @@ Sentinel's analysis is based on information exposed through supported browser ex
 
 For Chrome Extensions API documentation, see the official:
 
-- [Chrome Extensions API Reference](https://developer.chrome.com/docs/extensions/reference/api)
-- [Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions)
+- Chrome Extensions API Reference
+- Chrome Extensions Documentation
 
 Browser APIs and supported capabilities may change over time.
 
@@ -194,8 +208,8 @@ The extension analyzes available browser extension information for its security 
 
 For more information, see:
 
-- [Privacy Policy](PRIVACY.md)
-- [Terms of Service](TERMS-OF-SERVICE.md)
+- Privacy Policy
+- Terms of Service
 
 ---
 
@@ -208,8 +222,8 @@ NEXGEN Sentinel v1.0.0 is distributed as an official release package.
 1. Download the NEXGEN Sentinel release package.
 2. Extract the package.
 3. Open your browser's extension management page.
-4. Enable **Developer mode**.
-5. Select **Load unpacked**.
+4. Enable Developer mode.
+5. Select Load unpacked.
 6. Choose the extracted NEXGEN Sentinel extension directory.
 7. Open Sentinel from the browser toolbar.
 
@@ -231,7 +245,7 @@ The official release package is provided for installation and use under the acco
 
 NEXGEN Sentinel is proprietary software owned by NEXGEN DevStudio.
 
-See the accompanying [LICENSE.md](LICENSE.md) for the complete license terms.
+See the accompanying LICENSE.md for the complete license terms.
 
 Copyright © 2026 NEXGEN DevStudio. All rights reserved.
 
@@ -239,7 +253,7 @@ Copyright © 2026 NEXGEN DevStudio. All rights reserved.
 
 ## Terms of Service
 
-Use of NEXGEN Sentinel is subject to the accompanying [Terms of Service](TERMS-OF-SERVICE.md).
+Use of NEXGEN Sentinel is subject to the accompanying Terms of Service.
 
 ---
 
@@ -248,28 +262,3 @@ Use of NEXGEN Sentinel is subject to the accompanying [Terms of Service](TERMS-O
 If you discover a security issue involving NEXGEN Sentinel, please contact the NEXGEN DevStudio support team.
 
 For general support and bug reports:
-
-**Support:** support.nexgen.devstudio@gmail.com
-
----
-
-## Support
-
-For questions, bug reports, or support requests:
-
-**Support:** support.nexgen.devstudio@gmail.com
-
-**Business:** nexgen.devstudio@gmail.com
-
----
-
-## Project Information
-
-**Product:** NEXGEN Sentinel  
-**Version:** 1.0.0  
-**Release:** First Official Release  
-**Developer:** NEXGEN DevStudio  
-**Platform:** Chromium-based browsers  
-**License:** Proprietary
-
----
