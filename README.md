@@ -105,14 +105,19 @@ It includes the current Browser Health score, attention indicators, extension re
 <img width="597" height="577" alt="Screenshot 2026-09-02 104549" src="https://github.com/user-attachments/assets/1bc01d5c-19f3-438e-9e39-1e9d3006e544" />
 
 ---
+
 ## Supported Browsers
+
 NEXGEN Sentinel is designed for Chromium-based browsers that support the required extension APIs.
+
 Supported browsers include:
+
 - Google Chrome
 - Microsoft Edge
 - Brave
 - Opera
 - Vivaldi
+
 Browser API availability may vary between browsers and versions.
 
 ### Get NEXGEN Sentinel for Browsers
@@ -131,7 +136,6 @@ Browser API availability may vary between browsers and versions.
 </div>
 
 <sub><i>Click logo to get extension</i></sub>
-
 
 ---
 
@@ -262,3 +266,28 @@ Use of NEXGEN Sentinel is subject to the accompanying Terms of Service.
 If you discover a security issue involving NEXGEN Sentinel, please contact the NEXGEN DevStudio support team.
 
 For general support and bug reports:
+
+Support: support.nexgen.devstudio@gmail.com
+
+---
+
+## Support
+
+For questions, bug reports, or support requests:
+
+Support: support.nexgen.devstudio@gmail.com
+
+Business: nexgen.devstudio@gmail.com
+
+---
+
+## Project Information
+
+| Property | Details |
+| :--- | :--- |
+| Product | NEXGEN Sentinel |
+| Version | 1.0.0 |
+| Release | First Official Release |
+| Developer | NEXGEN DevStudio |
+| Platform | Chromium-based browsers |
+| License | Proprietary |
